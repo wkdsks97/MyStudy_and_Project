@@ -1,0 +1,4 @@
+데이터 선택: select * from 테이블
+데이터 삭제: delete form테이블 where ~
+데이터 수정: update 테이블 set  바꿀 것 where ~
+데이터 추가: insert into 테이블(1,2,3) values (값1,값2,값3)
