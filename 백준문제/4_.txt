@@ -1,0 +1,39 @@
+4조 쇼핑 테이블 만들기
+
+create table customer(
+id varchar(100) primary key not null, -- 나중에 관리자도 포함시킬것
+pw varchar(100) not null,
+address varchar(200) not null,
+hp varchar(100) not null,
+cus varchar(3) not null, -- 구매자 , 판매자 겸 구매자 구분
+e_mail varchar(100) not null
+);
+
+select *from customer;
+
+create table sequences(
+name varchar(32),
+currval bigint unsigned
+);
+
+create table ord(
+order_num bigint unsigned not null auto_increment primary key,
+pd_name varchar(200) not null,
+count int not null,
+cust_id varchar(100) not null,
+state int not null,
+ord_date datetime not null default now()
+);
+
+insert into ord(pd_name, count, cust_id,state) values('츄리닝',1,'재형이',1) ;
+
+select *from ord;
+
+create table pd(
+pd_num varchar(100) not null primary key,
+pd_name varchar(200) not null,
+price int not null,
+img varchar(1000) not null
+);
+select *from pd;
+
