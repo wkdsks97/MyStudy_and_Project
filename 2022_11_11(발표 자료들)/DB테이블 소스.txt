@@ -1,0 +1,85 @@
+create database shopping;
+use shopping;
+
+create table customer(
+id varchar(100) not null primary key, -- 나중에 관리자도 포함시킬것
+pw varchar(100) not null,
+name varchar(100) not null,
+address varchar(200) not null,
+hp varchar(100) not null,
+gender varchar(100) not null, -- 구매자 , 판매자 겸 구매자 구분
+e_mail varchar(100) not null
+);
+
+select *from customer;
+select *from cart;
+select *from pd;
+
+drop table customer;
+
+ select id,pw,address,hp,gender,e_mail from customer where id='1';
+ 
+
+
+create table pd(
+pd_num varchar(100) not null primary key,
+pd_name varchar(200) not null,
+pd_des varchar(500) not null,
+price int not null,
+img varchar(1000) not null,
+pd_category varchar(100) not null,
+pd_category_big varchar(100) not null
+);
+select *from pd;
+
+select pd_num, pd_name,pd_des, price,img,pd_category,pd_category_big
+from  pd order by pd_num desc ;
+
+
+select  pd_name, price,img,pd_category,pd_category_big from  pd where pd_num='1';
+
+create table cart(
+    cartId  int auto_increment , -- 장바구니번호
+    id varchar(50) , -- 유저 아이디
+    pd_num varchar(50),
+    orderCountbuybuy int,
+    add_date datetime not null default now(),
+    foreign key (id) references customer(id),
+    foreign key (pd_num) references pd(pd_num),
+    
+    primary key(cartId )
+);
+insert into cart(id, pd_num, orderCount,price)
+values ('parkjaehyeong12','100','9',30000);
+
+select *from cart;
+select id,pd_num,orderCount from cart where id='parkjaehyeong12';
+truncate `cart`;
+
+delete from cart;
+
+
+
+
+
+create view allcart as select * from cart;
+
+select cartId, id, allcart.pd_num, orderCount, add_date, pd_des, price from allcart  join pd on allcart.pd_num = pd.pd_num;
+
+
+create view allpdcart as 
+select cartId, id, allcart.pd_num, orderCount, add_date, pd_des, price from allcart  join pd on allcart.pd_num = pd.pd_num;
+
+select * from allcart;
+
+
+
+
+
+
+
+
+
+
+
+
