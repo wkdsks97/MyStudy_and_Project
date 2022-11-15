@@ -1,0 +1,8 @@
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\bin\Debug\HelloMyCSharp02_01.exe.config
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\bin\Debug\HelloMyCSharp02_01.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\bin\Debug\HelloMyCSharp02_01.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\obj\Debug\HelloMyCSharp02_01.csproj.AssemblyReference.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\obj\Debug\HelloMyCSharp02_01.csproj.SuggestedBindingRedirects.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\obj\Debug\HelloMyCSharp02_01.csproj.CoreCompileInputs.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\obj\Debug\HelloMyCSharp02_01.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_01\obj\Debug\HelloMyCSharp02_01.pdb
