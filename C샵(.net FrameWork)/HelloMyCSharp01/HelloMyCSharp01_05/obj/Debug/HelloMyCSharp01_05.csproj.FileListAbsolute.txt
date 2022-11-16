@@ -1,0 +1,16 @@
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\bin\Debug\HelloMyCSharp01_05.exe.config
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\bin\Debug\HelloMyCSharp01_05.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\bin\Debug\HelloMyCSharp01_05.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.csproj.AssemblyReference.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.csproj.SuggestedBindingRedirects.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.csproj.CoreCompileInputs.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\HellMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\bin\Debug\HelloMyCSharp01_05.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\bin\Debug\HelloMyCSharp01_05.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\bin\Debug\HelloMyCSharp01_05.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_05\obj\Debug\HelloMyCSharp01_05.pdb

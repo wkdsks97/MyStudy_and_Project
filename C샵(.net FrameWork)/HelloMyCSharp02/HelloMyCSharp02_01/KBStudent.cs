@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace HelloMyCSharp02_01
 {
-    public struct KBStudent
+    internal struct KBStudent
     {
-        public string Name;
-        public double Eye;
-        public int Age;
-        public string MBTI;
+        public string name;
+        public int age;
+        public double eye;
+        public string mbti;
 
-        //변수 선언할 때 마다 각 변수의 속성에 따라서
-        //값을 다르게 출력한다.
-        public void introduce()
+        public void interduce()
         {
-            Console.WriteLine("이름 :" + Name);
-            Console.WriteLine("시력 :" + Eye);
-            Console.WriteLine("나이 : " + Age);
-            Console.WriteLine("MBTI : " + this.MBTI);
+            Console.WriteLine("이름: "+name);
+            Console.WriteLine("시력: "+ eye);
+            Console.WriteLine("나이: "+ age);
+            Console.WriteLine("MBTI: "+ mbti);
         }
     }
 }

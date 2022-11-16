@@ -1,22 +1,11 @@
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.exe.config
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.exe
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.pdb
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.AssemblyReference.cache
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.SuggestedBindingRedirects.cache
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.Properties.Resources.resources
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.GenerateResource.cache
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.CoreCompileInputs.cache
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.exe
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.pdb
-D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.Form1.resources
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.exe.config
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.exe
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.pdb
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.AssemblyReference.cache
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.SuggestedBindingRedirects.cache
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.Form1.resources
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.Properties.Resources.resources
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.GenerateResource.cache
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.CoreCompileInputs.cache
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.exe
-\\192.168.0.111\shareFolder\djCharp\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\bin\Debug\HelloMyCSharp02_03_GUI.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.Form1.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp02\HelloMyCSharp02_03_GUI\obj\Debug\HelloMyCSharp02_03_GUI.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D65A7553-FC8F-4BBA-82A5-140E853DD131}</ProjectGuid>
+    <ProjectGuid>{690FA2F3-2BCD-49EE-AB6A-9C20DAC3A9FB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>HelloMyCSharp02_03_GUI</RootNamespace>
     <AssemblyName>HelloMyCSharp02_03_GUI</AssemblyName>

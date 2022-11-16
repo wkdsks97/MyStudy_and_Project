@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace HelloMyCSharp02_01
 {
-    public struct Student
+    internal class Student
     {
-        public int Age;
-        public string Name;
+        public string name;
+        public int age;
         public double eye;
-
     }
 }

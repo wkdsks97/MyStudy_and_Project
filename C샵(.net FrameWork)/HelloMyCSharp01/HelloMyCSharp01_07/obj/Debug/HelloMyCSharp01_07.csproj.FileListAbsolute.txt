@@ -1,0 +1,8 @@
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\bin\Debug\HelloMyCSharp01_07.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\bin\Debug\HelloMyCSharp01_07.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\bin\Debug\HelloMyCSharp01_07.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\obj\Debug\HelloMyCSharp01_07.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\obj\Debug\HelloMyCSharp01_07.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\obj\Debug\HelloMyCSharp01_07.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\obj\Debug\HelloMyCSharp01_07.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp01\HelloMyCSharp01_07\obj\Debug\HelloMyCSharp01_07.pdb

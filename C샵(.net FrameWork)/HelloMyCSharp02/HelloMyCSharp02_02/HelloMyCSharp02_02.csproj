@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31FABFE7-783B-45F0-A252-858E786E9E29}</ProjectGuid>
+    <ProjectGuid>{690FC49C-877C-4946-8FF5-FCA06898AC6C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>HelloMyCSharp02_02</RootNamespace>
     <AssemblyName>HelloMyCSharp02_02</AssemblyName>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BKBank.cs" />
     <Compile Include="KBBank.cs" />
+    <Compile Include="KyungBank.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

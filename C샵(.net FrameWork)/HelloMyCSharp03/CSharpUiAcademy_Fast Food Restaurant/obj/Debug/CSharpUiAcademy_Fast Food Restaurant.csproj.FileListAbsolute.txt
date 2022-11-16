@@ -1,0 +1,11 @@
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\bin\Debug\CSharpUiAcademy_Fast Food Restaurant.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\bin\Debug\CSharpUiAcademy_Fast Food Restaurant.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\bin\Debug\CSharpUiAcademy_Fast Food Restaurant.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast Food Restaurant.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast Food Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast_Food_Restaurant.Form1.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast_Food_Restaurant.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast Food Restaurant.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast Food Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast Food Restaurant.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy_Fast Food Restaurant\obj\Debug\CSharpUiAcademy_Fast Food Restaurant.pdb

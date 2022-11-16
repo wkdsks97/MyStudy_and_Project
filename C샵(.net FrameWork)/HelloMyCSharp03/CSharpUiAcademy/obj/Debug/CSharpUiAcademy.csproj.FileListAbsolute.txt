@@ -1,0 +1,11 @@
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\bin\Debug\CSharpUiAcademy.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\bin\Debug\CSharpUiAcademy.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\bin\Debug\CSharpUiAcademy.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.Form1.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\HelloMyCSharp03\CSharpUiAcademy\obj\Debug\CSharpUiAcademy.pdb
