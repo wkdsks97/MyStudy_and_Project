@@ -1,0 +1,8 @@
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\bin\Debug\HelloMyCSharp06.exe.config
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\bin\Debug\HelloMyCSharp06.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\bin\Debug\HelloMyCSharp06.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\obj\Debug\HelloMyCSharp06.csproj.AssemblyReference.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\obj\Debug\HelloMyCSharp06.csproj.SuggestedBindingRedirects.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\obj\Debug\HelloMyCSharp06.csproj.CoreCompileInputs.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\obj\Debug\HelloMyCSharp06.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\HelloMyCSharp06\HelloMyCSharp06\obj\Debug\HelloMyCSharp06.pdb
