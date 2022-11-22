@@ -1,0 +1,11 @@
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\bin\Debug\HelloMyCSharp06_06.exe.config
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\bin\Debug\HelloMyCSharp06_06.exe
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\bin\Debug\HelloMyCSharp06_06.pdb
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.Form1.resources
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.exe
+C:\Users\wkdsk\Desktop\Resilience_Web\C샵(.net FrameWork)\HelloMyCSharp06\HelloMyCSharp06_06\obj\Debug\HelloMyCSharp06_06.pdb
