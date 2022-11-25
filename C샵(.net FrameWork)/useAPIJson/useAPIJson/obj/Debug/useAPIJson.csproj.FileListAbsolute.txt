@@ -1,0 +1,28 @@
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\bin\Debug\useAPIJson.exe.config
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\bin\Debug\useAPIJson.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\bin\Debug\useAPIJson.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\bin\Debug\Newtonsoft.Json.dll
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\bin\Debug\Newtonsoft.Json.xml
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.AssemblyReference.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.SuggestedBindingRedirects.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.Properties.Resources.resources
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.GenerateResource.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.CoreCompileInputs.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.CopyComplete
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPIJson\useAPIJson\obj\Debug\useAPIJson.Form1.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\bin\Debug\useAPIJson.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\bin\Debug\useAPIJson.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\bin\Debug\useAPIJson.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.Form1.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.csproj.CopyComplete
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useAPIJson\useAPIJson\obj\Debug\useAPIJson.pdb

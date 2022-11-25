@@ -1,0 +1,11 @@
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\bin\Debug\useAPI.exe.config
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\bin\Debug\useAPI.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\bin\Debug\useAPI.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.csproj.AssemblyReference.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.csproj.SuggestedBindingRedirects.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.Form1.resources
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.Properties.Resources.resources
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.csproj.GenerateResource.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.csproj.CoreCompileInputs.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\useAPI\useAPI\obj\Debug\useAPI.pdb
