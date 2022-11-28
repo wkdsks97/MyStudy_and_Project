@@ -1,0 +1,28 @@
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\bin\Debug\useLocalMap.exe.config
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\bin\Debug\useLocalMap.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\bin\Debug\useLocalMap.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.AssemblyReference.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.SuggestedBindingRedirects.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.Form1.resources
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.Properties.Resources.resources
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.GenerateResource.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.CoreCompileInputs.cache
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.exe
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.pdb
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\bin\Debug\Newtonsoft.Json.dll
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\bin\Debug\Newtonsoft.Json.xml
+D:\study\mywork\AI_305_7_20220627\djCharp\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.CopyComplete
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\bin\Debug\useLocalMap.exe.config
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\bin\Debug\useLocalMap.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\bin\Debug\useLocalMap.pdb
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.Form1.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.csproj.CopyComplete
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.exe
+C:\Users\wkdsk\Desktop\코딩 공부\C언어\C샵(.net FrameWork)\useLocalMap\useLocalMap\obj\Debug\useLocalMap.pdb
