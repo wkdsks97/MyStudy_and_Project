@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="02_mincho.json"></script>
+
+    <script>
+        window.onload = function () {
+            let btn = document.querySelector('button')
+            let mylunch = document.querySelector('img')
+            let result = document.querySelector("#result")
+
+            let 국수 = {
+                이름: '국수',
+                사진: '국수.jpg'
+            }
+            let 햄버거 = {
+                이름: '햄버거',
+                사진: '햄버거.jpg'
+            }
+            let 샌드위치 = {
+                이름: '샌드위치',
+                사진: '샌드위치.jpg'
+            }
+
+
+            let lunch = [국수, 햄버거, 샌드위치]
+
+            lunch[3] = {
+                이름: '하와이안피자',
+                사진: '피자.jpg'
+            }
+            lunch[4] = 민초
+
+
+
+
+            btn.textContent = '점심선택'
+            mylunch.height = 300
+            mylunch.width = 300
+            mylunch.src = ''
+            result.textContent = ''
+            mylunch.style.display = 'block'
+
+
+            btn.onclick = () => 
+            {
+    
+                let idx = []
+
+                for (i = 0; i < 10; i++) 
+                {
+                    idx[i] = Math.floor(Math.random() * lunch.length)
+                    {
+                        if (lunch[idx].이름 = lunch[idx+1].이름) { i-- }
+                        else {
+                            mylunch.src = lunch[idx].사진
+                            result.textContent = lunch[idx].이름
+                        }
+                    }
+
+                }
+            }
+        }
+
+
+    </script>
+</head>
+
+<body>
+    <h1>오늘의 점심은?</h1>
+    <button></button>
+    <img src="" alt="">
+    <h1 id="result"></h1>
+</body>
+
+</html>
