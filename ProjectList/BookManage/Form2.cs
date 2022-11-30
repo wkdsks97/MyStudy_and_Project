@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 
 namespace HelloMyLastCSharp
 {
@@ -18,22 +19,22 @@ namespace HelloMyLastCSharp
             dataGridView1.DataSource = null;
             if (DataManager.Books.Count > 0)
                 dataGridView1.DataSource = DataManager.Books;
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //책 추가
-            bool existBook = false; //책 존재 여부
+            bool existBook = false;
 
-            foreach(var item in DataManager.Books)
+            foreach (var item in DataManager.Books)
             {
-                if(item.Isbn == textBox1.Text)
+                if (item.Isbn == textBox1.Text)
                 {
                     existBook = true;
                     break;
                 }
             }
-            if(existBook)
+            if (existBook)
                 MessageBox.Show("이미 존재하는 도서입니다.");
             else
             {
@@ -41,23 +42,22 @@ namespace HelloMyLastCSharp
                 book.Isbn = textBox1.Text;
                 book.Name = textBox2.Text;
                 book.Publisher = textBox3.Text;
-                //텍스트로 인한 오류 줄이고 싶다면
-                //try catch나 int.TryParse를 쓰면 된다.
                 book.Page = int.Parse(textBox4.Text);
+
                 DataManager.Books.Add(book);
 
                 dataGridView1.DataSource = null;
                 dataGridView1.DataSource = DataManager.Books;
-                DataManager.Save(); //Save해야 XML에 반영이 됨
+                DataManager.Save();
             }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Book book = null;
-            for(int i = 0; i<DataManager.Books.Count; i++)
+            for (int i = 0; i < DataManager.Books.Count; i++)
             {
-                if(DataManager.Books[i].Isbn == textBox1.Text)
+                if (DataManager.Books[i].Isbn == textBox1.Text)
                 {
                     book = DataManager.Books[i];
                     book.Name = textBox2.Text;
@@ -65,35 +65,37 @@ namespace HelloMyLastCSharp
                     book.Page = int.Parse(textBox4.Text);
 
                     dataGridView1.DataSource = null;
-                    dataGridView1.DataSource= DataManager.Books;
+                    dataGridView1.DataSource = DataManager.Books;
                     DataManager.Save();
                 }
+
             }
-            if(book==null)
-                MessageBox.Show("없는 책입니다.");
+            if (book == null)
+                MessageBox.Show("없는 책입니다");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             bool existBook = false;
-            for(int i = 0; i<DataManager.Books.Count;i++)
+            for (int i = 0; i < DataManager.Books.Count; i++)
             {
                 if (DataManager.Books[i].Isbn == textBox1.Text)
                 {
-                    //DataManager.Books.RemoveAt(i);
-                    DataManager.Books.Remove(DataManager.Books[i]);
+                    DataManager.Books.RemoveAt(i);
                     existBook = true;
                 }
             }
-            if(existBook == false)
-                MessageBox.Show("없는 책입니다.");
-            else
-            {
-                dataGridView1.DataSource = null;
-                if(DataManager.Books.Count > 0)
-                    dataGridView1.DataSource = DataManager.Books;
-                DataManager.Save();
-            }
+                if (existBook == false)
+                    MessageBox.Show("없는 책입니다");
+                else
+                {
+                    dataGridView1.DataSource= null;
+                    if (DataManager.Books.Count > 0)
+                        dataGridView1.DataSource = DataManager.Books;
+                    DataManager.Save();
+                }
+
+            
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
