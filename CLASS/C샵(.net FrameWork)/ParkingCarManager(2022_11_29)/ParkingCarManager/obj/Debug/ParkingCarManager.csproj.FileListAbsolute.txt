@@ -20,3 +20,14 @@ C:\Users\wkdsk\Desktop\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarM
 C:\Users\wkdsk\Desktop\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.CoreCompileInputs.cache
 C:\Users\wkdsk\Desktop\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.exe
 C:\Users\wkdsk\Desktop\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.pdb
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\bin\Debug\ParkingCarManager.exe.config
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\bin\Debug\ParkingCarManager.exe
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\bin\Debug\ParkingCarManager.pdb
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.AssemblyReference.cache
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.Form1.resources
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.Properties.Resources.resources
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.GenerateResource.cache
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.CoreCompileInputs.cache
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.exe
+C:\Users\wkdsk\Desktop\MyStudy_and_Project\CLASS\C샵(.net FrameWork)\ParkingCarManager(2022_11_29)\ParkingCarManager\obj\Debug\ParkingCarManager.pdb
