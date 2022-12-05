@@ -90,8 +90,6 @@ namespace Market_POS
 
         }
 
-
-        //검색
         private void button1_Click(object sender, EventArgs e)
         {
             if (textBox1.Text == "")
@@ -124,7 +122,7 @@ namespace Market_POS
         }
 
 
-        //삭제
+
         private void button3_Click(object sender, EventArgs e)
         {
             string no = textBox2.Text;
@@ -135,7 +133,7 @@ namespace Market_POS
             dataGridView1.DataSource = DataManager.Sales;
         }
 
-        //새로고침
+
         private void button4_Click(object sender, EventArgs e)
         {
             dataGridView1.DataSource = null;
@@ -167,7 +165,10 @@ namespace Market_POS
                 dataGridView1.DataSource = DataManager.Sales;
             }
         }
-      
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
 
         //수정하기
         private void button2_Click(object sender, EventArgs e)
@@ -211,14 +212,8 @@ namespace Market_POS
                     conn.Close();
                 }
             }
+
+
         }
-
-        //종료
-        private void button5_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-
     }
 }

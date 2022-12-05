@@ -6,19 +6,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Diagnostics;
-using System.Xml.Linq;
 
 namespace Market_POS
 {
-    public class DBHelper
+    public class DBHelper2
     {
         public static SqlConnection conn = new SqlConnection();
         public static SqlDataAdapter da;
         public static DataSet ds;
         public static DataTable dt;
-       
-       
+
         //DB연결
         public static void ConnectDB()
         {//접속해주는 함수
@@ -48,16 +45,16 @@ namespace Market_POS
 
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn; //어디에 커맨드 보낼지 지정
-                cmd.CommandText = "select * from sales_tb;";
+                cmd.CommandText = "select * from stock_tb;";
                 da = new SqlDataAdapter(cmd);
                 ds = new DataSet();
-                da.Fill(ds, "sales_tb");
+                da.Fill(ds, "stock_tb");
                 dt = ds.Tables[0];
             }
             catch (Exception e)
             {
-                System.Windows.Forms.MessageBox.Show(e.Message + "select");
-                System.Windows.Forms.MessageBox.Show(e.StackTrace + "select");
+                System.Windows.Forms.MessageBox.Show(e.Message + "stock");
+                System.Windows.Forms.MessageBox.Show(e.StackTrace + "stock");
                 //DataManager.printLog("select" + e.StackTrace);
                 return;
             }
@@ -67,8 +64,8 @@ namespace Market_POS
             }
         }
 
-        //데이터 추가
-        public static void insertSales (string name, string count, string price, string total, int i)
+        //재고 추가
+        public static void insertStock(string name, string price, string count)
         {
             try
             {
@@ -76,14 +73,43 @@ namespace Market_POS
 
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn; //어디에 커맨드 보낼지 지정
-                cmd.CommandText = string.Format("INSERT INTO sales_tb(name,price,count,total,c_num) VALUES  ('{0}',{1},{2},{3},{4})", @name, @price, @count, @total, @i + 1);
+                cmd.CommandText = string.Format("INSERT INTO stock_tb(i_name,i_price,i_count) VALUES  ('{0}',{1},{2})", @name, @price, @count);
                 cmd.ExecuteNonQuery();
 
             }
             catch (Exception e)
             {
-                System.Windows.Forms.MessageBox.Show(e.Message + "insert");
-                System.Windows.Forms.MessageBox.Show(e.StackTrace + "insert");
+                System.Windows.Forms.MessageBox.Show(e.Message + "stock error");
+                System.Windows.Forms.MessageBox.Show(e.StackTrace + "stock error");
+                //DataManager.printLog("select" + e.StackTrace);
+                return;
+            }
+            finally
+            {
+                conn.Close(); //db 연결 해제
+            }
+        }
+
+        //재고 내용 수정
+        public static void modifyStock(string no, string name, string price, string count)
+        {
+            try
+            {
+                ConnectDB();
+
+
+
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
+                cmd.CommandText = string.Format(" UPDATE[MarketPos].[dbo].[stock_tb] SET i_name = '{1}', i_price = {2}, i_count = {3} " +
+                  "WHERE no = {0};", @no, @name, @price, @count);
+                cmd.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+
+                System.Windows.Forms.MessageBox.Show(e.Message + "modify error");
+                System.Windows.Forms.MessageBox.Show(e.StackTrace + "modify error");
                 //DataManager.printLog("select" + e.StackTrace);
                 return;
             }
@@ -94,8 +120,8 @@ namespace Market_POS
         }
 
 
-        //데이터 삭제
-        public static void deleteSales(string no)
+        //재고 삭제
+        public static void deleteStock(string no)
         {
             try
             {
@@ -103,14 +129,14 @@ namespace Market_POS
 
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn;
-                cmd.CommandText = string.Format("DELETE  From [MarketPos].[dbo].[sales_tb] WHERE no = {0};", @no);
+                cmd.CommandText = string.Format("DELETE  From [MarketPos].[dbo].[stock_tb] WHERE no = {0};", @no);
                 cmd.ExecuteNonQuery();
             }
             catch (Exception e)
             {
 
-                System.Windows.Forms.MessageBox.Show(e.Message + "delete");
-                System.Windows.Forms.MessageBox.Show(e.StackTrace + "delete");
+                System.Windows.Forms.MessageBox.Show(e.Message + "   stock  delete");
+                System.Windows.Forms.MessageBox.Show(e.StackTrace + "   stock  delete");
                 return;
             }
 
@@ -120,32 +146,8 @@ namespace Market_POS
             }
         }
 
-        //데이터 수정
-        public static void modifySales(string no,string name, int price, int count, int total)
-        {
-            try
-            {
-                ConnectDB();
-
-                SqlCommand cmd = new SqlCommand();
-                cmd.Connection = conn;
-                cmd.CommandText = string.Format(" UPDATE[MarketPos].[dbo].[sales_tb] SET name = '{1}', price = {2}, count = {3}, total = {4} " +
-                    "WHERE no = {0};",@no, @name, @price, @count, total );
-                cmd.ExecuteNonQuery();
-            }
-            catch (Exception e)
-            {
-
-                System.Windows.Forms.MessageBox.Show(e.Message + "modify");
-                System.Windows.Forms.MessageBox.Show(e.StackTrace + "modify");
-            }
-            finally 
-            { 
-                conn.Close(); 
-            }
-        }
-        //데이터 조회
-        public static void searchData(string valueToSearch)
+        //재고검색조회
+        public static void searchStock(string valueToSearch)
         {
 
             try
@@ -154,10 +156,10 @@ namespace Market_POS
 
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn; //어디에 커맨드 보낼지 지정
-                cmd.CommandText = string.Format("SELECT* FROM[MarketPos].[dbo].[sales_tb] WHERE CONCAT(name, price, count, total) LIKE '%" + valueToSearch + "%';");
+                cmd.CommandText = string.Format("SELECT* FROM[MarketPos].[dbo].[stock_tb] WHERE i_name ='{0}';", @valueToSearch);
                 da = new SqlDataAdapter(cmd);
                 ds = new DataSet();
-                da.Fill(ds, "sales_tb");
+                da.Fill(ds, "stock_tb");
                 dt = ds.Tables[0];
             }
             catch (Exception e)
@@ -169,9 +171,6 @@ namespace Market_POS
             {
                 conn.Close(); //db 연결 해제
             }
-
-
-
         }
 
     }
