@@ -132,8 +132,11 @@
             // 
             // textBox3
             // 
+            this.textBox3.BackColor = System.Drawing.Color.White;
             this.textBox3.Location = new System.Drawing.Point(691, 313);
             this.textBox3.Name = "textBox3";
+            this.textBox3.ReadOnly = true;
+            this.textBox3.ShortcutsEnabled = false;
             this.textBox3.Size = new System.Drawing.Size(142, 21);
             this.textBox3.TabIndex = 11;
             // 

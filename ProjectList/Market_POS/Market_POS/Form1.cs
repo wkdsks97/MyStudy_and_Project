@@ -128,6 +128,7 @@ namespace Market_POS
                     String Total = dataGridView1.Rows[i].Cells[3].Value.ToString();
 
                 DBHelper.insertSales(Name, Price, Count, Total, i);
+                DBHelper2.StockCount(Name, Count);
             }           
 
             MessageBox.Show("계산되었습니다.");

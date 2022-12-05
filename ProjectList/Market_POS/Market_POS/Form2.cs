@@ -77,23 +77,14 @@ namespace Market_POS
         }
 
 
-        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-            pos_dataset Sales =
-                dataGridView1.CurrentRow.DataBoundItem as pos_dataset;
-
-            textBox2.Text = Sales.no.ToString();
-            textBox3.Text = Sales.name.ToString();
-            textBox4.Text = Sales.price.ToString();
-            textBox5.Text = Sales.count.ToString();
-            textBox6.Text = Sales.total.ToString();
-
-        }
+    
 
 
         //검색
         private void button1_Click(object sender, EventArgs e)
         {
+
+
             if (textBox1.Text == "")
             {
                 MessageBox.Show("검색 정보를 입력해주세요");
@@ -114,13 +105,14 @@ namespace Market_POS
                 catch (Exception er)
                 {
 
-                    MessageBox.Show(er.Message+" 조회 오류");
+                    MessageBox.Show(er.Message + " 조회 오류");
                 }
                 finally
                 {
                     conn.Close();
                 }
             }
+
         }
 
 
@@ -219,6 +211,17 @@ namespace Market_POS
             this.Close();
         }
 
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+          
+            pos_dataset Sales =
+            dataGridView1.CurrentRow.DataBoundItem as pos_dataset;
 
+            textBox2.Text = Sales.no.ToString();
+            textBox3.Text = Sales.name.ToString();
+            textBox4.Text = Sales.price.ToString();
+            textBox5.Text = Sales.count.ToString();
+            textBox6.Text = Sales.total.ToString();
+        }
     }
 }

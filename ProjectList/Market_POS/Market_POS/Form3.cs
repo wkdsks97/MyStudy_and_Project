@@ -86,6 +86,7 @@ namespace Market_POS
             }
             else
             {
+                
                 try
                 {
                     string valueToSearch = textBox1.Text;
@@ -217,9 +218,6 @@ namespace Market_POS
             textBox5.Text = Stock.i_count.ToString();
 
         }
-
-
-
 
     }
 }

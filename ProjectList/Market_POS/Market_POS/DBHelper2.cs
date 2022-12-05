@@ -173,5 +173,28 @@ namespace Market_POS
             }
         }
 
+        //구매시 재고수량 빼기
+        public static void StockCount(string name, string count)
+        {
+            try
+            {
+                ConnectDB(); //db 연결
+
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
+                cmd.CommandText = string.Format("UPDATE[MarketPos].[dbo].[stock_tb] SET i_count =i_count - {1} WHERE i_name='{0}'; ", @name,@count);
+                cmd.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+                MessageBox.Show("오류");
+            }
+            finally
+            {
+                conn.Close(); 
+            }
+        }
+
     }
 }
