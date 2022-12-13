@@ -14,14 +14,14 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseojun&layout=compact)]([https://github.com/Ahnseojun/github-readme-stats](https://github.com/wkdsks97/MyStudy_and_Project))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdsks97&layout=compact)]([https://github.com/wkdsks97/MyStudy_and_Project](https://github.com/wkdsks97/MyStudy_and_Project))
 ---
 </div>
 <!-- ## 📩 Ask me about
 <a href="mailto:orbitahj@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:orbitahj@gmail.com"/> </a>
 -- >
 <!-- My status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnseojun&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdsks97&show_icons=true)
 -->
 <!--
 **Ahnseojun/Ahnseojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
