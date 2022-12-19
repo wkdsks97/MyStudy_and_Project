@@ -7,4 +7,8 @@
    <id>2</id>
    <name>성환</name>
  </user>
+ <user>
+   <id>99999</id>
+   <name>관리자님</name>
+ </user>
 </users>
