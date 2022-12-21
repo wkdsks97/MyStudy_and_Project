@@ -1,0 +1,10 @@
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\bin\Debug\MewtocolTest.exe.config
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\bin\Debug\MewtocolTest.exe
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\bin\Debug\MewtocolTest.pdb
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\obj\Debug\MewtocolTest.csprojAssemblyReference.cache
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\obj\Debug\MewtocolTest.Form1.resources
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\obj\Debug\MewtocolTest.Properties.Resources.resources
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\obj\Debug\MewtocolTest.csproj.GenerateResource.cache
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\obj\Debug\MewtocolTest.csproj.CoreCompileInputs.cache
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\obj\Debug\MewtocolTest.exe
+E:\VisualStudio Projects\2021\MewtocolTest\MewtocolTest\obj\Debug\MewtocolTest.pdb

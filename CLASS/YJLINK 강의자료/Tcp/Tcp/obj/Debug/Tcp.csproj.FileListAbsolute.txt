@@ -1,0 +1,12 @@
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\bin\Debug\Tcp.exe.config
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\bin\Debug\Tcp.exe
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\bin\Debug\Tcp.pdb
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.Properties.Resources.resources
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.exe
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.pdb
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.Server.resources
+C:\Users\KB\Desktop\와이제이\Tcp\Tcp\obj\Debug\Tcp.Client.resources
